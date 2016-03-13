@@ -1,0 +1,197 @@
+
+
+/* Note to students: Some properties are given to you to fill out,
+
+others you can modify as they stand, and if you have time,
+
+there are definitely some properties you should add!*/
+
+​
+
+    html {
+
+      height: 100%;
+
+    }
+
+    body {
+
+       width: 800px;
+
+       height: 100%;
+
+    }
+
+​
+
+    header {
+
+        background-color: #262E7F;
+
+        color: #f2f2f2;
+
+        padding: 25px;
+
+        border: 10px solid #9bd0ff;
+
+​
+
+        font-size: 50px;
+
+        display: block;
+
+    }
+
+    nav {
+
+      background-color: ;
+
+      color: #f2f2f2;
+
+      padding: 5px;
+
+      font-size: 25px;
+
+      display: block;
+
+      background-color: #9bd0ff;
+
+    }
+
+    nav ul {
+
+        padding: ;
+
+        float: left;
+
+        border-bottom: ;
+
+        list-style-type: none;
+
+        background-color: #9bd0ff;
+
+    }
+
+    nav li {
+
+      float: left;
+
+      background-color: #9bd0ff;
+
+    }
+
+    nav li a {
+
+        display: block;
+
+        height: 25px;
+
+        padding: 12px 18px 8px 18px;
+
+        vertical-align: middle;
+
+        background-color: #9bd0ff;
+
+​
+
+    }
+
+​
+
+    a {
+
+        color: ;
+
+    }
+
+    section {
+
+        width: 82%;
+
+        background-color:;
+
+        display: inline-block;
+
+        float: left;
+
+      }
+
+    #heading {
+
+      font-size: 25px;
+
+      color: black;
+
+      font-family:serif;
+
+    }
+
+​
+
+    .heading2 {
+
+      font-size: 20px;
+
+      color: black;
+
+      font-family:serif;
+
+    }
+
+    .heading3 {
+
+      font-size: 16px;
+
+      color: black;
+
+      font-weight: bold;
+
+​
+
+    }
+
+section ul li img {
+
+ width: 75%;
+
+ height: auto;
+
+}
+
+section ul li p
+
+​
+
+    aside {
+
+        width: 17%;
+
+        display: inline-block;
+
+        background-color:;
+
+        padding:;
+
+        min-height: 100%;
+
+    }
+
+    aside ul {
+
+        list-style-type: none;
+
+    }
+
+    footer {
+
+        width: 790px;
+
+        background-color:;
+
+        color:;
+
+        clear: both;
+
+        display: block;
+
+    }
